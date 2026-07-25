@@ -22,7 +22,7 @@
         <li>🎓 B.Tech CSE (Data Science) student</li>
         <li>📊 Passionate about Data Analysis, Machine Learning & Predictive Modeling</li>
         <li>🐍 Currently working with Python, Pandas, NumPy, and Scikit-Learn</li>
-        <li>📫 How to reach me: <b>your_email@example.com</b></li>
+        <li>📫 How to reach me: <b>priyochandra87@gmail.com</b></li>
       </ul>
       <br/>
       <h3>Connect with me:</h3>
@@ -31,8 +31,8 @@
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
         </a>&nbsp;&nbsp;
         <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/kaggle/default.svg" width="30" height="30" alt="Kaggle"/>
-        </a>&nbsp;&nbsp;
+          <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="30" height="30" alt="Kaggle"/>
+  </a>&nbsp;&nbsp;
         <a href="https://www.credly.com/users/YOUR_CREDL_USERNAME" target="_blank">
           <img src="https://cdn.simpleicons.org/credly/FF6B00" width="30" height="30" alt="Credly"/>
         </a>
@@ -68,18 +68,3 @@
 </p>
 
 
-<h3>Connect with me:</h3>
-<p>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/priyo-chand" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/priyochand" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/kaggle/default.svg" width="30" height="30" alt="Kaggle"/>
-  </a>&nbsp;&nbsp;
-  <!-- Credly -->
-  <a href="https://www.credly.com/users/priyo-chand" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" width="30" height="30" alt="Credly"/>
-  </a>
-</p>
