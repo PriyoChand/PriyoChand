@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Priyo 👋
 
-<!--
-**PriyoChand/PriyoChand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Engineering (Data Science)**
+📊 **Focus:** Data Analysis, Machine Learning, & Predictive Modeling
+🎯 **Goal:** Building data-driven solutions and exploring AI/ML workflows
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, SQL, C++
+- **Data & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebooks, Git, GitHub, VS Code
+
+---
+
+### 📊 Certifications & Badges
+<img src="https://credly-readme-stats.onrender.com/api/overview?username=priyo-chand&theme=github_dark" alt="Credly Badges" />
+
+*(Replace `YOUR_CREDLY_USERNAME` above with your actual Credly handle!)*
