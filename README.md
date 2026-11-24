@@ -63,7 +63,7 @@
 <!-- GITHUB STATS & STREAK CARDS -->
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyochand&show_icons=true&theme=radial&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=priyochand&show_icons=true&theme=radial&hide_border=true" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyochand&theme=radial&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
 
